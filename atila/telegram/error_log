@@ -1,0 +1,30 @@
+[17-Jun-2017 08:24:51 UTC] Process Time:0
+[17-Jun-2017 08:24:53 UTC] Process Time:0
+[17-Jun-2017 08:24:54 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 08:24:54 UTC] PHP Notice:  Undefined offset: 2 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 08:24:54 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 08:24:56 UTC] Process Time:0
+[17-Jun-2017 08:24:57 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 602
+[17-Jun-2017 08:27:29 UTC] Process Time:0.000535011291504
+[17-Jun-2017 08:27:30 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 635
+[17-Jun-2017 08:27:34 UTC] Process Time:0.000453948974609
+[17-Jun-2017 08:27:34 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 635
+[17-Jun-2017 10:15:51 UTC] Process Time:0.000442028045654
+[17-Jun-2017 10:20:44 UTC] Process Time:0.000493049621582
+[17-Jun-2017 10:21:01 UTC] Process Time:0.000543117523193
+[17-Jun-2017 10:21:03 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 658
+[17-Jun-2017 10:47:31 UTC] Process Time:0.00043511390686
+[17-Jun-2017 10:47:33 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 658
+[17-Jun-2017 10:47:34 UTC] Process Time:0.000543832778931
+[17-Jun-2017 10:47:35 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 10:47:35 UTC] PHP Notice:  Undefined offset: 2 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 10:47:35 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 10:47:37 UTC] Process Time:0.000387907028198
+[17-Jun-2017 10:47:38 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 602
+[17-Jun-2017 11:23:46 UTC] Process Time:0.000513076782227
+[17-Jun-2017 11:23:49 UTC] Process Time:0.000543832778931
+[17-Jun-2017 11:23:50 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 11:23:50 UTC] PHP Notice:  Undefined offset: 2 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 11:23:50 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[17-Jun-2017 11:23:52 UTC] Process Time:0.000464200973511
+[17-Jun-2017 11:23:53 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 602
