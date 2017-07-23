@@ -1,0 +1,413 @@
+
+[15-Jun-2017 08:16:34 UTC] Process Time:0
+[15-Jun-2017 08:16:37 UTC] Array
+(
+    [id] => 49
+    [orderid] => 25
+    [pid] => 40
+    [count] => 10
+    [status] => 0
+    [created] => 1497512144
+)
+
+[15-Jun-2017 08:18:20 UTC] Process Time:0
+[15-Jun-2017 08:18:21 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 635
+[15-Jun-2017 08:18:23 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 658
+[15-Jun-2017 08:18:24 UTC] Process Time:0
+[15-Jun-2017 08:18:25 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[15-Jun-2017 08:18:25 UTC] PHP Notice:  Undefined offset: 2 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[15-Jun-2017 08:18:25 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 323
+[15-Jun-2017 08:18:27 UTC] Process Time:0
+[15-Jun-2017 08:18:28 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 602
+[15-Jun-2017 08:18:31 UTC] Process Time:0
+[15-Jun-2017 08:18:35 UTC] Process Time:0
+[15-Jun-2017 08:18:47 UTC] Process Time:0
+[15-Jun-2017 08:18:51 UTC] Process Time:0
+[15-Jun-2017 08:18:58 UTC] Process Time:1
+[15-Jun-2017 08:19:03 UTC] Process Time:0
+[15-Jun-2017 08:19:05 UTC] PHP Notice:  Undefined variable: text in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 478
+[15-Jun-2017 08:19:09 UTC] Process Time:0
+[15-Jun-2017 08:19:17 UTC] Process Time:0
+[15-Jun-2017 08:19:28 UTC] Process Time:0
+[15-Jun-2017 08:19:34 UTC] Process Time:0
+[15-Jun-2017 08:19:36 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 658
+[15-Jun-2017 08:19:38 UTC] Process Time:0
+[15-Jun-2017 08:19:40 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 658
+[15-Jun-2017 08:19:43 UTC] Process Time:0
+[15-Jun-2017 08:19:45 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 658
+[15-Jun-2017 08:19:51 UTC] Process Time:0
+[15-Jun-2017 08:21:32 UTC] Process Time:0
+[15-Jun-2017 08:21:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 436
+[15-Jun-2017 08:21:55 UTC] Process Time:0
+[15-Jun-2017 08:21:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 436
+[15-Jun-2017 08:21:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 436
+[15-Jun-2017 08:21:59 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot398980127:AAHsNGHfSAf4jzrFkgHvICD5cQdN24YWLv8/sendMessage?chat_id=151473757&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 651
+[15-Jun-2017 08:22:11 UTC] Process Time:0
+[15-Jun-2017 08:22:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 436
+[15-Jun-2017 08:22:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 436
+[15-Jun-2017 08:22:16 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot398980127:AAHsNGHfSAf4jzrFkgHvICD5cQdN24YWLv8/sendMessage?chat_id=151473757&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/atila/telegram/index.php on line 651
+[15-Jun-2017 08:28:54 UTC] Process Time:0
+[15-Jun-2017 08:28:54 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 635
+[15-Jun-2017 08:28:57 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[15-Jun-2017 08:28:58 UTC] Process Time:0
+[15-Jun-2017 08:28:59 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 323
+[15-Jun-2017 08:29:05 UTC] Process Time:0
+[15-Jun-2017 08:29:06 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 10:13:53 UTC] Process Time:0
+[15-Jun-2017 10:13:55 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[15-Jun-2017 10:15:12 UTC] Process Time:0
+[15-Jun-2017 10:15:15 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[15-Jun-2017 10:15:18 UTC] Process Time:0
+[15-Jun-2017 10:15:20 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 323
+[15-Jun-2017 10:16:10 UTC] Process Time:0
+[15-Jun-2017 10:46:54 UTC] Process Time:1
+[15-Jun-2017 10:46:55 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 635
+[15-Jun-2017 10:46:58 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[15-Jun-2017 10:47:00 UTC] Process Time:0
+[15-Jun-2017 10:47:01 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 323
+[15-Jun-2017 10:47:04 UTC] Process Time:0
+[15-Jun-2017 10:47:05 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 10:55:55 UTC] Process Time:0
+[15-Jun-2017 10:55:57 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 10:56:10 UTC] Process Time:0
+[15-Jun-2017 10:56:11 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 11:31:54 UTC] Process Time:0
+[15-Jun-2017 11:31:56 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 11:32:00 UTC] Process Time:0
+[15-Jun-2017 11:32:00 UTC] Process Time:0
+[15-Jun-2017 11:32:02 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 11:32:02 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 11:32:14 UTC] Process Time:0
+[15-Jun-2017 11:32:19 UTC] Process Time:1
+[15-Jun-2017 12:28:53 UTC] Process Time:0
+[15-Jun-2017 12:28:53 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 635
+[15-Jun-2017 12:28:56 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[15-Jun-2017 12:29:01 UTC] Process Time:0
+[15-Jun-2017 12:29:03 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 323
+[15-Jun-2017 12:29:07 UTC] Process Time:0
+[15-Jun-2017 12:29:09 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[15-Jun-2017 12:29:26 UTC] Process Time:0
+[15-Jun-2017 12:29:43 UTC] Process Time:0
+[15-Jun-2017 12:29:44 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[15-Jun-2017 12:29:44 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[15-Jun-2017 12:29:44 UTC] PHP Notice:  Undefined offset: 2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[15-Jun-2017 12:29:44 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[15-Jun-2017 12:29:44 UTC] PHP Notice:  Undefined variable: ListPart in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 212
+[15-Jun-2017 12:29:45 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/sendMessage?chat_id=83057861&amp;text=%D9%86%D9%88%D8%B9+%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA+%D8%AE%D9%88%D8%AF%D8%B1%D8%A7+%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8+%DA%A9%D9%86%DB%8C%D8%AF&amp;reply_markup=%7B%22inline_keyboard%22%3Anull%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 651
+[15-Jun-2017 12:30:01 UTC] Process Time:0
+[15-Jun-2017 12:30:17 UTC] Process Time:0
+[15-Jun-2017 12:30:34 UTC] Process Time:0
+[15-Jun-2017 12:30:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 474
+[15-Jun-2017 12:30:36 UTC] PHP Notice:  Undefined variable: text in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 487
+[15-Jun-2017 12:30:49 UTC] Process Time:0
+[15-Jun-2017 12:33:06 UTC] Process Time:0
+[15-Jun-2017 12:34:12 UTC] Process Time:0
+[15-Jun-2017 12:34:19 UTC] Process Time:0
+[15-Jun-2017 12:34:27 UTC] Process Time:0
+[15-Jun-2017 12:34:30 UTC] PHP Notice:  Undefined variable: text in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 478
+[15-Jun-2017 12:34:48 UTC] Process Time:0
+[15-Jun-2017 12:35:16 UTC] Process Time:0
+[15-Jun-2017 12:37:23 UTC] Process Time:0
+[15-Jun-2017 12:37:26 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[15-Jun-2017 12:37:46 UTC] Process Time:0
+[15-Jun-2017 12:37:49 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[17-Jun-2017 06:12:14 UTC] Process Time:0
+[17-Jun-2017 06:12:19 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[17-Jun-2017 06:12:22 UTC] Process Time:0
+[17-Jun-2017 06:12:24 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 323
+[17-Jun-2017 06:12:28 UTC] Process Time:1
+[17-Jun-2017 06:12:29 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[17-Jun-2017 06:12:58 UTC] Process Time:0
+[17-Jun-2017 06:13:03 UTC] Process Time:0
+[17-Jun-2017 06:13:12 UTC] Process Time:0
+[17-Jun-2017 06:13:14 UTC] Process Time:0
+[17-Jun-2017 06:13:20 UTC] Process Time:0
+[17-Jun-2017 06:13:24 UTC] PHP Notice:  Undefined variable: text in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 478
+[17-Jun-2017 06:29:23 UTC] Process Time:0
+[17-Jun-2017 06:29:27 UTC] Process Time:0
+[17-Jun-2017 06:29:31 UTC] Process Time:0
+[17-Jun-2017 06:29:32 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 323
+[17-Jun-2017 06:29:34 UTC] Process Time:0
+[17-Jun-2017 06:29:36 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[17-Jun-2017 06:29:38 UTC] Process Time:0
+[17-Jun-2017 06:29:41 UTC] Process Time:0
+[17-Jun-2017 06:40:54 UTC] Process Time:0
+[17-Jun-2017 06:40:56 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[17-Jun-2017 06:41:16 UTC] Process Time:1
+[17-Jun-2017 06:41:18 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 323
+[17-Jun-2017 06:41:26 UTC] Process Time:0
+[17-Jun-2017 06:41:28 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 602
+[17-Jun-2017 06:41:48 UTC] Process Time:1
+[17-Jun-2017 06:41:52 UTC] Process Time:0
+[17-Jun-2017 06:42:00 UTC] Process Time:0
+[17-Jun-2017 06:42:03 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/editMessageReplyMarkup?chat_id=83057861&amp;message_id=58&amp;inline_message_id=53628191&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%221%22%2C%22callback_data%22%3A%22number_1_49%22%7D%2C%7B%22text%22%3A%222%22%2C%22callback_data%22%3A%22number_2_49%22%7D%2C%7B%22text%22%3A%223%22%2C%22callback_data%22%3A%22number_3_49%22%7D%2C%7B%22text%22%3A%224%22%2C%22callback_data%22%3A%22number_4_49%22%7D%2C%7B%22text%22%3A%225%22%2C%22callback_data%22%3A%22number_5_49%22%7D%5D%2C%5B%7B%22text%22%3A%226%22%2C%22callback_data%22%3A%22number_6_49%22%7D%2C%7B%22text%22%3A%227%22%2C%22callback_data%22%3A%22number_7_49%22%7D%2C%7B%22text%22%3A%228%22%2C%22callback_data%22%3A%22number_8_49%22%7D%2C%7B%22text%22%3A%229%22%2C%22callback_data%22%3A%22number_9_49%22%7D%2C%7B%22text%22%3A%2210%22%2C%22callback_data%22%3A%22number_10_49%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22% in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 645
+[17-Jun-2017 06:42:10 UTC] Process Time:0
+[17-Jun-2017 06:44:25 UTC] Process Time:0
+[17-Jun-2017 06:44:27 UTC] PHP Notice:  Undefined variable: text in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 478
+[17-Jun-2017 06:46:46 UTC] Process Time:0
+[17-Jun-2017 06:46:53 UTC] Process Time:0
+[17-Jun-2017 06:46:55 UTC] PHP Notice:  Undefined variable: text in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 478
+[17-Jun-2017 06:47:01 UTC] Process Time:0
+[17-Jun-2017 06:47:09 UTC] Process Time:0
+[17-Jun-2017 06:47:16 UTC] Process Time:0
+[17-Jun-2017 06:47:17 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[17-Jun-2017 06:47:24 UTC] Process Time:0
+[17-Jun-2017 06:47:25 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[17-Jun-2017 06:47:34 UTC] Process Time:0
+[17-Jun-2017 06:47:35 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[17-Jun-2017 06:47:47 UTC] Process Time:0
+[17-Jun-2017 06:48:21 UTC] Process Time:0
+[17-Jun-2017 06:48:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 436
+[17-Jun-2017 06:54:33 UTC] Process Time:0
+[17-Jun-2017 06:54:39 UTC] Process Time:0
+[17-Jun-2017 06:54:40 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[17-Jun-2017 06:54:40 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[17-Jun-2017 06:54:40 UTC] PHP Notice:  Undefined offset: 2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[17-Jun-2017 06:54:40 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 205
+[17-Jun-2017 06:54:40 UTC] PHP Notice:  Undefined variable: ListPart in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 212
+[17-Jun-2017 06:54:40 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/sendMessage?chat_id=83057861&amp;text=%D9%86%D9%88%D8%B9+%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA+%D8%AE%D9%88%D8%AF%D8%B1%D8%A7+%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8+%DA%A9%D9%86%DB%8C%D8%AF&amp;reply_markup=%7B%22inline_keyboard%22%3Anull%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 651
+[17-Jun-2017 06:54:57 UTC] Process Time:0
+[17-Jun-2017 06:55:04 UTC] Process Time:0
+[17-Jun-2017 06:55:05 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 658
+[17-Jun-2017 10:35:05 UTC] Process Time:0
+[17-Jun-2017 10:35:06 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 635
+[17-Jun-2017 10:35:08 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 658
+[17-Jun-2017 10:35:10 UTC] Process Time:0
+[17-Jun-2017 10:35:12 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 323
+[17-Jun-2017 10:35:15 UTC] Process Time:0
+[17-Jun-2017 10:35:17 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:35:27 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot444279917:AAEAd6xv7DmHcWc55Vt_cAUwuy5fo3C3wb4/sendPhoto?chat_id=249627746&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2Fcc1857_1.jpg&amp;caption=+%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87+%D8%A2%D8%A8%DB%8C+Cr7%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++%DB%B5%DB%B2%DB%B9%2C%DB%B2%DB%B0%DB%B0+%0A%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A2%D8%A8%DB%8C+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%D8%A8%D8%B1%D9%86%D8%AF%3A+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%DA%A9%D8%B4%D9%88%D8%B1+%D8%B5%D8%A7%D8%AD%D8%A8+%D8%A8%D8%B1%D9%86%D8%AF%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%B4%D8%AF%D9%87+%D8%AF%D8%B1%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%B1%D9%86%DA%AF%3A+%D8%A2%D8%A8%DB%8C+%DA%A9%D8%B1%D8%A8%D9%86%DB%8C%0D%0A%D8%B7%D8%B1%D8%AD%3A+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A8%D8%A7+%D8%A8%D9%86%D8%AF%D9%87%D8%A7%DB%8C+%DA%A9%D9%86%D8%A7%D8%B1% in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 714
+[17-Jun-2017 10:36:01 UTC] Process Time:1
+[17-Jun-2017 10:36:01 UTC] Process Time:1
+[17-Jun-2017 10:36:02 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:36:03 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:38:21 UTC] Process Time:0
+[17-Jun-2017 10:38:22 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 635
+[17-Jun-2017 10:38:24 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 658
+[17-Jun-2017 10:41:01 UTC] Process Time:0
+[17-Jun-2017 10:41:03 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 658
+[17-Jun-2017 10:41:04 UTC] Process Time:0
+[17-Jun-2017 10:41:05 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 323
+[17-Jun-2017 10:41:07 UTC] Process Time:0
+[17-Jun-2017 10:41:08 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:41:19 UTC] Process Time:1
+[17-Jun-2017 10:41:20 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:41:28 UTC] Process Time:0
+[17-Jun-2017 10:41:30 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:41:30 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot444279917:AAEAd6xv7DmHcWc55Vt_cAUwuy5fo3C3wb4/sendPhoto?chat_id=151473757&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2Fcc1857_1.jpg&amp;caption=+%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87+%D8%A2%D8%A8%DB%8C+Cr7%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++%DB%B5%DB%B2%DB%B9%2C%DB%B2%DB%B0%DB%B0+%0A%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A2%D8%A8%DB%8C+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%D8%A8%D8%B1%D9%86%D8%AF%3A+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%DA%A9%D8%B4%D9%88%D8%B1+%D8%B5%D8%A7%D8%AD%D8%A8+%D8%A8%D8%B1%D9%86%D8%AF%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%B4%D8%AF%D9%87+%D8%AF%D8%B1%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%B1%D9%86%DA%AF%3A+%D8%A2%D8%A8%DB%8C+%DA%A9%D8%B1%D8%A8%D9%86%DB%8C%0D%0A%D8%B7%D8%B1%D8%AD%3A+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A8%D8%A7+%D8%A8%D9%86%D8%AF%D9%87%D8%A7%DB%8C+%DA%A9%D9%86%D8%A7%D8%B1% in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 714
+[17-Jun-2017 10:46:16 UTC] Process Time:0
+[17-Jun-2017 10:46:18 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 658
+[17-Jun-2017 10:46:20 UTC] Process Time:0
+[17-Jun-2017 10:46:21 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 323
+[17-Jun-2017 10:46:23 UTC] Process Time:0
+[17-Jun-2017 10:46:25 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:47:16 UTC] Process Time:1
+[17-Jun-2017 10:47:18 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:47:22 UTC] Process Time:1
+[17-Jun-2017 10:47:23 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:47:24 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot444279917:AAEAd6xv7DmHcWc55Vt_cAUwuy5fo3C3wb4/sendPhoto?chat_id=249627746&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2Fcc1857_1.jpg&amp;caption=+%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87+%D8%A2%D8%A8%DB%8C+Cr7%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++%DB%B5%DB%B2%DB%B9%2C%DB%B2%DB%B0%DB%B0+%0A%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A2%D8%A8%DB%8C+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%D8%A8%D8%B1%D9%86%D8%AF%3A+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%DA%A9%D8%B4%D9%88%D8%B1+%D8%B5%D8%A7%D8%AD%D8%A8+%D8%A8%D8%B1%D9%86%D8%AF%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%B4%D8%AF%D9%87+%D8%AF%D8%B1%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%B1%D9%86%DA%AF%3A+%D8%A2%D8%A8%DB%8C+%DA%A9%D8%B1%D8%A8%D9%86%DB%8C%0D%0A%D8%B7%D8%B1%D8%AD%3A+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A8%D8%A7+%D8%A8%D9%86%D8%AF%D9%87%D8%A7%DB%8C+%DA%A9%D9%86%D8%A7%D8%B1% in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 714
+[17-Jun-2017 10:47:34 UTC] Process Time:0
+[17-Jun-2017 10:47:36 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 658
+[17-Jun-2017 10:47:37 UTC] Process Time:0
+[17-Jun-2017 10:47:39 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 323
+[17-Jun-2017 10:47:42 UTC] Process Time:1
+[17-Jun-2017 10:47:43 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:47:44 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot444279917:AAEAd6xv7DmHcWc55Vt_cAUwuy5fo3C3wb4/sendPhoto?chat_id=249627746&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2Fcc1857_1.jpg&amp;caption=+%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D9%85%D8%B1%D8%AF%D8%A7%D9%86%D9%87+%D8%A2%D8%A8%DB%8C+Cr7%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++%DB%B5%DB%B2%DB%B9%2C%DB%B2%DB%B0%DB%B0+%0A%DA%A9%D9%81%D8%B4+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A2%D8%A8%DB%8C+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%D8%A8%D8%B1%D9%86%D8%AF%3A+%D8%B3%DB%8C.%D8%A2%D8%B1.%D8%B3%D9%88%D9%86+CR7%0D%0A%DA%A9%D8%B4%D9%88%D8%B1+%D8%B5%D8%A7%D8%AD%D8%A8+%D8%A8%D8%B1%D9%86%D8%AF%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%AA%D9%88%D9%84%DB%8C%D8%AF+%D8%B4%D8%AF%D9%87+%D8%AF%D8%B1%3A+%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%0D%0A%D8%B1%D9%86%DA%AF%3A+%D8%A2%D8%A8%DB%8C+%DA%A9%D8%B1%D8%A8%D9%86%DB%8C%0D%0A%D8%B7%D8%B1%D8%AD%3A+%DA%A9%D8%A7%D9%84%D8%AC+%D8%A8%D8%A7+%D8%A8%D9%86%D8%AF%D9%87%D8%A7%DB%8C+%DA%A9%D9%86%D8%A7%D8%B1% in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 714
+[17-Jun-2017 10:47:51 UTC] Process Time:0
+[17-Jun-2017 10:47:52 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 602
+[17-Jun-2017 10:53:15 UTC] Process Time:0
+[17-Jun-2017 10:53:17 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 658
+[17-Jun-2017 11:50:56 UTC] Process Time:1
+[17-Jun-2017 11:50:57 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 635
+[17-Jun-2017 11:50:59 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 658
+[17-Jun-2017 11:51:00 UTC] Process Time:0
+[17-Jun-2017 11:51:02 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 323
+[17-Jun-2017 11:51:04 UTC] Process Time:1
+[17-Jun-2017 11:51:09 UTC] Process Time:0
+[17-Jun-2017 11:51:10 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 602
+[17-Jun-2017 11:51:10 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=249627746&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2FThumbnail+%284%29.jpg&amp;caption=%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++82%2C000%0A%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%D8%9B+%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87+%D8%B3%D8%B1%D9%85%D9%87+%D8%A7%DB%8C+%DA%A9%D9%87+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D9%86%D9%87+%D8%A7%D8%B2+%D8%AC%D9%84%D9%88+%DA%AF%DB%8C%D9%BE%D9%88%D8%B1+%D8%B7%D8%B1%D8%AD%D8%AF%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%A2%D8%B3%D8%AA%D8%B1+%D8%B3%D9%81%DB%8C%D8%AF+%D8%AF%D8%A7%D8%B1%D8%AF+%D9%88+%D8%B1%D9%88%DB%8C+%DB%8C%D9%82%D9%87+%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D8%A7%D8%B1+%D8%B4%D8%AF%D9%87+%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%A7%D9%85%D9%86+%D8%AF%D9%88+%D8%B7%D8%A8%D9%82%D9%87 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 714
+[17-Jun-2017 11:51:22 UTC] Process Time:0
+[17-Jun-2017 11:51:23 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 602
+[17-Jun-2017 11:51:23 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=249627746&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2FThumbnail+%284%29.jpg&amp;caption=%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++82%2C000%0A%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%D8%9B+%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87+%D8%B3%D8%B1%D9%85%D9%87+%D8%A7%DB%8C+%DA%A9%D9%87+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D9%86%D9%87+%D8%A7%D8%B2+%D8%AC%D9%84%D9%88+%DA%AF%DB%8C%D9%BE%D9%88%D8%B1+%D8%B7%D8%B1%D8%AD%D8%AF%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%A2%D8%B3%D8%AA%D8%B1+%D8%B3%D9%81%DB%8C%D8%AF+%D8%AF%D8%A7%D8%B1%D8%AF+%D9%88+%D8%B1%D9%88%DB%8C+%DB%8C%D9%82%D9%87+%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D8%A7%D8%B1+%D8%B4%D8%AF%D9%87+%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%A7%D9%85%D9%86+%D8%AF%D9%88+%D8%B7%D8%A8%D9%82%D9%87 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 714
+[17-Jun-2017 11:51:26 UTC] Process Time:0
+[17-Jun-2017 11:51:27 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 602
+[17-Jun-2017 11:51:27 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=249627746&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2FThumbnail+%284%29.jpg&amp;caption=%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++82%2C000%0A%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%D8%9B+%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87+%D8%B3%D8%B1%D9%85%D9%87+%D8%A7%DB%8C+%DA%A9%D9%87+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D9%86%D9%87+%D8%A7%D8%B2+%D8%AC%D9%84%D9%88+%DA%AF%DB%8C%D9%BE%D9%88%D8%B1+%D8%B7%D8%B1%D8%AD%D8%AF%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%A2%D8%B3%D8%AA%D8%B1+%D8%B3%D9%81%DB%8C%D8%AF+%D8%AF%D8%A7%D8%B1%D8%AF+%D9%88+%D8%B1%D9%88%DB%8C+%DB%8C%D9%82%D9%87+%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D8%A7%D8%B1+%D8%B4%D8%AF%D9%87+%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%A7%D9%85%D9%86+%D8%AF%D9%88+%D8%B7%D8%A8%D9%82%D9%87 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 714
+[17-Jun-2017 12:29:34 UTC] Process Time:1
+[17-Jun-2017 12:29:35 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 602
+[20-Jun-2017 04:30:17 UTC] Process Time:0
+[20-Jun-2017 04:30:18 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 635
+[20-Jun-2017 04:30:20 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 658
+[20-Jun-2017 04:30:21 UTC] Process Time:0
+[20-Jun-2017 04:30:22 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 323
+[20-Jun-2017 04:30:24 UTC] Process Time:0
+[20-Jun-2017 04:30:25 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 602
+[20-Jun-2017 04:30:26 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=151473757&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2FThumbnail+%284%29.jpg&amp;caption=%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++82%2C000%0A%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%D8%9B+%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87+%D8%B3%D8%B1%D9%85%D9%87+%D8%A7%DB%8C+%DA%A9%D9%87+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D9%86%D9%87+%D8%A7%D8%B2+%D8%AC%D9%84%D9%88+%DA%AF%DB%8C%D9%BE%D9%88%D8%B1+%D8%B7%D8%B1%D8%AD%D8%AF%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%A2%D8%B3%D8%AA%D8%B1+%D8%B3%D9%81%DB%8C%D8%AF+%D8%AF%D8%A7%D8%B1%D8%AF+%D9%88+%D8%B1%D9%88%DB%8C+%DB%8C%D9%82%D9%87+%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D8%A7%D8%B1+%D8%B4%D8%AF%D9%87+%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%A7%D9%85%D9%86+%D8%AF%D9%88+%D8%B7%D8%A8%D9%82%D9%87 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 714
+[20-Jun-2017 04:30:30 UTC] Process Time:0
+[20-Jun-2017 04:30:34 UTC] Process Time:0
+[20-Jun-2017 04:30:35 UTC] PHP Notice:  Undefined index: id in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 340
+[20-Jun-2017 04:30:36 UTC] PHP Notice:  Undefined index: id in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 352
+[20-Jun-2017 04:30:39 UTC] Process Time:0
+[20-Jun-2017 04:30:41 UTC] PHP Notice:  Undefined index: id in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 494
+[20-Jun-2017 04:30:44 UTC] Process Time:0
+[20-Jun-2017 04:30:45 UTC] PHP Notice:  Undefined index: id in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 471
+[20-Jun-2017 04:30:46 UTC] PHP Notice:  Undefined variable: text in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 478
+[20-Jun-2017 04:30:49 UTC] Process Time:0
+[20-Jun-2017 04:30:54 UTC] Process Time:0
+[20-Jun-2017 04:30:55 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 658
+[20-Jun-2017 04:30:59 UTC] Process Time:0
+[20-Jun-2017 04:31:00 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 658
+[20-Jun-2017 04:31:04 UTC] Process Time:0
+[20-Jun-2017 04:31:06 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 658
+[20-Jun-2017 04:31:10 UTC] Process Time:0
+[20-Jun-2017 04:31:12 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 658
+[20-Jun-2017 04:31:16 UTC] Process Time:0
+[20-Jun-2017 04:31:18 UTC] PHP Notice:  Undefined index: id in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 170
+[20-Jun-2017 04:31:19 UTC] PHP Notice:  Undefined index: id in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 173
+[20-Jun-2017 04:31:21 UTC] Process Time:0
+[20-Jun-2017 04:31:23 UTC] PHP Notice:  Undefined index: id in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 434
+[20-Jun-2017 04:44:58 UTC] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING), expecting function (T_FUNCTION) in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 731
+[20-Jun-2017 04:45:00 UTC] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING), expecting function (T_FUNCTION) in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 731
+[20-Jun-2017 04:45:04 UTC] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING), expecting function (T_FUNCTION) in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 731
+[20-Jun-2017 04:45:12 UTC] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING), expecting function (T_FUNCTION) in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 731
+[20-Jun-2017 04:45:28 UTC] PHP Parse error:  syntax error, unexpected 'Success' (T_STRING), expecting function (T_FUNCTION) in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 731
+[20-Jun-2017 04:46:00 UTC] Process Time:0
+[20-Jun-2017 04:46:27 UTC] Process Time:0
+[20-Jun-2017 04:46:29 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendMessage?chat_id=151473757&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 673
+[20-Jun-2017 04:47:09 UTC] Process Time:0
+[20-Jun-2017 04:47:12 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendMessage?chat_id=151473757&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 673
+[20-Jun-2017 04:47:14 UTC] Process Time:0
+[20-Jun-2017 04:47:15 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 329
+[20-Jun-2017 04:47:54 UTC] Process Time:0
+[20-Jun-2017 04:47:56 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendMessage?chat_id=151473757&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 673
+[20-Jun-2017 04:48:21 UTC] Process Time:0
+[20-Jun-2017 04:48:22 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 624
+[20-Jun-2017 04:48:22 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 04:48:22 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 04:48:22 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=151473757&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2FThumbnail+%284%29.jpg&amp;caption=%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++%0A%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%D8%9B+%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87+%D8%B3%D8%B1%D9%85%D9%87+%D8%A7%DB%8C+%DA%A9%D9%87+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D9%86%D9%87+%D8%A7%D8%B2+%D8%AC%D9%84%D9%88+%DA%AF%DB%8C%D9%BE%D9%88%D8%B1+%D8%B7%D8%B1%D8%AD%D8%AF%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%A2%D8%B3%D8%AA%D8%B1+%D8%B3%D9%81%DB%8C%D8%AF+%D8%AF%D8%A7%D8%B1%D8%AF+%D9%88+%D8%B1%D9%88%DB%8C+%DB%8C%D9%82%D9%87+%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D8%A7%D8%B1+%D8%B4%D8%AF%D9%87+%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%A7%D9%85%D9%86+%D8%AF%D9%88+%D8%B7%D8%A8%D9%82%D9%87+%D8%AA% in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 736
+[20-Jun-2017 04:48:24 UTC] Process Time:0
+[20-Jun-2017 04:48:28 UTC] Process Time:0
+[20-Jun-2017 04:48:35 UTC] Process Time:0
+[20-Jun-2017 04:48:37 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 520
+[20-Jun-2017 04:48:37 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 521
+[20-Jun-2017 08:49:02 UTC] Process Time:0
+[20-Jun-2017 08:49:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/include/restfull.php on line 26
+[20-Jun-2017 08:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/include/restfull.php on line 26
+[20-Jun-2017 08:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 625
+[20-Jun-2017 08:49:28 UTC] Process Time:0
+[20-Jun-2017 08:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/include/restfull.php on line 26
+[20-Jun-2017 08:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/include/restfull.php on line 26
+[20-Jun-2017 08:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 625
+[20-Jun-2017 08:49:28 UTC] Process Time:0
+[20-Jun-2017 08:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/include/restfull.php on line 26
+[20-Jun-2017 08:49:32 UTC] Process Time:0
+[20-Jun-2017 08:49:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/include/restfull.php on line 26
+[20-Jun-2017 08:49:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/baby/include/restfull.php on line 26
+[20-Jun-2017 08:49:32 UTC] PHP Notice:  Undefined variable: ListPart in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 336
+[20-Jun-2017 08:49:32 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendMessage?chat_id=151473757&amp;text=%D9%84%D8%B7%D9%81%D8%A7+%D9%86%D9%88%D8%B9+%D9%85%D8%AD%D8%B5%D9%88%D9%84+%D8%B1%D8%A7+%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8+%D9%86%D9%85%D8%A7%DB%8C%DB%8C%D8%AF&amp;reply_markup=%7B%22inline_keyboard%22%3Anull%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 673
+[20-Jun-2017 10:26:10 UTC] Process Time:0
+[20-Jun-2017 10:26:22 UTC] Process Time:0
+[20-Jun-2017 10:26:24 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 329
+[20-Jun-2017 10:26:27 UTC] Process Time:0
+[20-Jun-2017 10:26:28 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 624
+[20-Jun-2017 10:26:28 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 10:26:29 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 10:26:29 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=151473757&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2FThumbnail+%284%29.jpg&amp;caption=%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++%0A%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%D8%9B+%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87+%D8%B3%D8%B1%D9%85%D9%87+%D8%A7%DB%8C+%DA%A9%D9%87+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D9%86%D9%87+%D8%A7%D8%B2+%D8%AC%D9%84%D9%88+%DA%AF%DB%8C%D9%BE%D9%88%D8%B1+%D8%B7%D8%B1%D8%AD%D8%AF%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%A2%D8%B3%D8%AA%D8%B1+%D8%B3%D9%81%DB%8C%D8%AF+%D8%AF%D8%A7%D8%B1%D8%AF+%D9%88+%D8%B1%D9%88%DB%8C+%DB%8C%D9%82%D9%87+%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D8%A7%D8%B1+%D8%B4%D8%AF%D9%87+%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%A7%D9%85%D9%86+%D8%AF%D9%88+%D8%B7%D8%A8%D9%82%D9%87+%D8%AA% in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 736
+[20-Jun-2017 11:17:32 UTC] Process Time:0
+[20-Jun-2017 11:17:34 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 624
+[20-Jun-2017 11:17:34 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 11:17:34 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 11:24:18 UTC] Process Time:0
+[20-Jun-2017 11:24:36 UTC] Process Time:0
+[20-Jun-2017 11:24:41 UTC] Process Time:0
+[20-Jun-2017 11:24:43 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 329
+[20-Jun-2017 11:24:52 UTC] Process Time:0
+[20-Jun-2017 11:24:54 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 624
+[20-Jun-2017 11:24:54 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 11:24:54 UTC] PHP Notice:  Undefined index: und in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 644
+[20-Jun-2017 11:24:55 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=151473757&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2FThumbnail+%284%29.jpg&amp;caption=%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++%0A%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+matilda%D8%9B+%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86+%D9%85%D8%AC%D9%84%D8%B3%DB%8C+%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87+%D8%B3%D8%B1%D9%85%D9%87+%D8%A7%DB%8C+%DA%A9%D9%87+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D9%86%D9%87+%D8%A7%D8%B2+%D8%AC%D9%84%D9%88+%DA%AF%DB%8C%D9%BE%D9%88%D8%B1+%D8%B7%D8%B1%D8%AD%D8%AF%D8%A7%D8%B1+%D8%A8%D8%A7+%D8%A2%D8%B3%D8%AA%D8%B1+%D8%B3%D9%81%DB%8C%D8%AF+%D8%AF%D8%A7%D8%B1%D8%AF+%D9%88+%D8%B1%D9%88%DB%8C+%DB%8C%D9%82%D9%87+%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D8%A7%D8%B1+%D8%B4%D8%AF%D9%87+%D9%88+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AF%D8%A7%D9%85%D9%86+%D8%AF%D9%88+%D8%B7%D8%A8%D9%82%D9%87+%D8%AA% in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 736
+[20-Jun-2017 11:24:59 UTC] Process Time:0
+[20-Jun-2017 11:25:00 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 624
+[20-Jun-2017 12:02:51 UTC] Process Time:0
+[20-Jun-2017 12:02:57 UTC] Process Time:0
+[20-Jun-2017 12:02:59 UTC] PHP Notice:  Undefined variable: viewOrderProduct in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 466
+[20-Jun-2017 12:02:59 UTC] PHP Notice:  Undefined variable: viewOrderProduct2 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 466
+[20-Jun-2017 12:03:00 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendMessage?chat_id=151473757&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 673
+[08-Jul-2017 05:07:11 UTC] Process Time:9
+[08-Jul-2017 05:07:19 UTC] Process Time:0
+[08-Jul-2017 05:07:28 UTC] Process Time:0
+[08-Jul-2017 05:07:38 UTC] Process Time:0
+[08-Jul-2017 05:07:45 UTC] Process Time:0
+[08-Jul-2017 05:07:47 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 97
+                    [uid] => 41
+                    [mid] => 19
+                    [status] => 0
+                    [created] => 1499490461
+                )
+
+        )
+
+)
+
+[08-Jul-2017 05:08:08 UTC] Process Time:0
+[08-Jul-2017 05:08:24 UTC] Process Time:0
+[08-Jul-2017 05:08:36 UTC] Process Time:1
+[08-Jul-2017 05:08:49 UTC] Process Time:0
+[08-Jul-2017 05:09:01 UTC] Process Time:1
+[08-Jul-2017 05:09:03 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 696
+[08-Jul-2017 05:09:04 UTC] PHP Notice:  Undefined index: title in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 697
+[08-Jul-2017 05:09:04 UTC] PHP Notice:  Undefined index: field_price in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 697
+[08-Jul-2017 05:09:04 UTC] PHP Notice:  Undefined index: field_image in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 698
+[08-Jul-2017 05:09:04 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 701
+[08-Jul-2017 05:09:04 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 701
+[08-Jul-2017 05:09:04 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot449183020:AAG_mILHBXB8ZDOvp8E976ugd5_DrWKgZoM/sendPhoto?chat_id=249627746&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2F&amp;caption=%0A%D9%82%DB%8C%D9%85%D8%AA+%3A+%0A&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu062e%5Cu0631%5Cu06cc%5Cu062f%22%2C%22callback_data%22%3A%22Buy_%22%7D%2C%7B%22text%22%3A%22%5Cu0627%5Cu0634%5Cu062a%5Cu0631%5Cu0627%5Cu06a9+%5Cu062f%5Cu0631+%5Cu062a%5Cu0644%5Cu06af%5Cu0631%5Cu0627%5Cu0645%22%2C%22switch_inline_query%22%3Anull%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/baby/telegram/index.php on line 749
+[08-Jul-2017 05:09:10 UTC] Process Time:0
+[08-Jul-2017 05:09:15 UTC] Process Time:0
+[08-Jul-2017 05:09:27 UTC] Process Time:0
+[08-Jul-2017 05:09:36 UTC] Process Time:0
+[08-Jul-2017 05:12:34 UTC] Process Time:0
+[08-Jul-2017 05:13:04 UTC] Process Time:1
+[08-Jul-2017 05:13:19 UTC] Process Time:0
+[08-Jul-2017 05:14:09 UTC] Process Time:0
+[08-Jul-2017 05:14:16 UTC] Process Time:0
+[16-Jul-2017 10:33:47 UTC] Process Time:9
+[16-Jul-2017 10:33:51 UTC] Process Time:0
+[16-Jul-2017 10:33:54 UTC] Process Time:0
+[16-Jul-2017 10:33:59 UTC] Process Time:0
+[16-Jul-2017 10:34:04 UTC] Process Time:0
+[16-Jul-2017 10:34:06 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103
+                    [uid] => 41
+                    [mid] => 19
+                    [status] => 0
+                    [created] => 1500201240
+                )
+
+        )
+
+)
+
+[16-Jul-2017 10:34:09 UTC] Process Time:0
+[16-Jul-2017 10:34:15 UTC] Process Time:0
