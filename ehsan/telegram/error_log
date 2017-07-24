@@ -1,0 +1,113 @@
+[25-Jun-2017 14:16:52 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[25-Jun-2017 14:16:52 UTC] Process Time:1.49840021233E+12
+[25-Jun-2017 14:17:01 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[25-Jun-2017 14:17:01 UTC] Process Time:1.4984002211E+12
+[25-Jun-2017 14:17:03 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot394484094:AAHjUUllO3zntT6M3IeFAexRjMRCuSB1rf4/sendPhoto?chat_id=151473757&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2F%2Fimg%2FRUBY+%281%29.jpg&amp;caption=%D9%86%DB%8C%D9%85+%D8%B3%D8%AA+%D8%B9%D9%82%DB%8C%D9%82%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++250000%0A&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu062e%5Cu0631%5Cu06cc%5Cu062f%22%2C%22callback_data%22%3A%22Buy_87%22%7D%2C%7B%22text%22%3A%22%5Cu0627%5Cu0634%5Cu062a%5Cu0631%5Cu0627%5Cu06a9+%5Cu062f%5Cu0631+%5Cu062a%5Cu0644%5Cu06af%5Cu0631%5Cu0627%5Cu0645%22%2C%22switch_inline_query%22%3A%2287%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 748
+[25-Jun-2017 14:17:28 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[25-Jun-2017 14:17:28 UTC] Process Time:1.49840024896E+12
+[25-Jun-2017 14:17:58 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[25-Jun-2017 14:17:58 UTC] Process Time:1.49840027868E+12
+[25-Jun-2017 14:26:00 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[25-Jun-2017 14:26:00 UTC] Process Time:1.49840076075E+12
+[30-Jun-2017 19:44:32 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[30-Jun-2017 19:44:32 UTC] Process Time:1.49885187291E+12
+[30-Jun-2017 19:44:33 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 669
+[30-Jun-2017 19:44:41 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[30-Jun-2017 19:44:41 UTC] Process Time:1.49885188128E+12
+[30-Jun-2017 19:45:16 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[30-Jun-2017 19:45:16 UTC] Process Time:1.49885191698E+12
+[04-Jul-2017 06:19:28 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:19:28 UTC] Process Time:1.49914916816E+12
+[04-Jul-2017 06:19:28 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 669
+[04-Jul-2017 06:19:44 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:19:44 UTC] Process Time:1.49914918475E+12
+[04-Jul-2017 06:19:57 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:19:57 UTC] Process Time:1.49914919756E+12
+[04-Jul-2017 06:20:07 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:20:07 UTC] Process Time:1.49914920782E+12
+[04-Jul-2017 06:20:09 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot394484094:AAHjUUllO3zntT6M3IeFAexRjMRCuSB1rf4/sendPhoto?chat_id=420314048&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2F%2Fimg%2FRUBY+%281%29.jpg&amp;caption=%D9%86%DB%8C%D9%85+%D8%B3%D8%AA+%D8%B9%D9%82%DB%8C%D9%82%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++250000%0A&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu062e%5Cu0631%5Cu06cc%5Cu062f%22%2C%22callback_data%22%3A%22Buy_87%22%7D%2C%7B%22text%22%3A%22%5Cu0627%5Cu0634%5Cu062a%5Cu0631%5Cu0627%5Cu06a9+%5Cu062f%5Cu0631+%5Cu062a%5Cu0644%5Cu06af%5Cu0631%5Cu0627%5Cu0645%22%2C%22switch_inline_query%22%3A%2287%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 748
+[04-Jul-2017 06:20:24 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:20:24 UTC] Process Time:1.4991492248E+12
+[04-Jul-2017 06:20:55 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:20:55 UTC] Process Time:1.49914925525E+12
+[04-Jul-2017 06:21:13 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:21:13 UTC] Process Time:1.4991492738E+12
+[04-Jul-2017 06:21:34 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:21:34 UTC] Process Time:1.49914929432E+12
+[04-Jul-2017 06:21:35 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 94
+                    [uid] => 21
+                    [mid] => 44
+                    [status] => 0
+                    [created] => 1499149275
+                )
+
+        )
+
+)
+
+[04-Jul-2017 06:21:43 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:21:43 UTC] Process Time:1.4991493039E+12
+[04-Jul-2017 06:21:45 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 94
+                    [uid] => 21
+                    [mid] => 44
+                    [status] => 0
+                    [created] => 1499149275
+                )
+
+        )
+
+)
+
+[04-Jul-2017 06:21:48 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot394484094:AAHjUUllO3zntT6M3IeFAexRjMRCuSB1rf4/editMessageReplyMarkup?chat_id=420314048&amp;message_id=1349&amp;inline_message_id=274457131&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%221%22%2C%22callback_data%22%3A%22number_1_84%22%7D%2C%7B%22text%22%3A%222%22%2C%22callback_data%22%3A%22number_2_84%22%7D%2C%7B%22text%22%3A%223%22%2C%22callback_data%22%3A%22number_3_84%22%7D%2C%7B%22text%22%3A%224%22%2C%22callback_data%22%3A%22number_4_84%22%7D%2C%7B%22text%22%3A%225%22%2C%22callback_data%22%3A%22number_5_84%22%7D%5D%2C%5B%7B%22text%22%3A%226%22%2C%22callback_data%22%3A%22number_6_84%22%7D%2C%7B%22text%22%3A%227%22%2C%22callback_data%22%3A%22number_7_84%22%7D%2C%7B%22text%22%3A%228%22%2C%22callback_data%22%3A%22number_8_84%22%7D%2C%7B%22text%22%3A%229%22%2C%22callback_data%22%3A%22number_9_84%22%7D%2C%7B%22text%22%3A%2210%22%2C%22callback_data%22%3A%22number_10_84%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 679
+[04-Jul-2017 06:21:57 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:21:57 UTC] Process Time:1.49914931786E+12
+[04-Jul-2017 06:22:16 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:22:16 UTC] Process Time:1.49914933656E+12
+[04-Jul-2017 06:22:35 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:22:35 UTC] Process Time:1.49914935512E+12
+[04-Jul-2017 06:22:45 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:22:45 UTC] Process Time:1.49914936581E+12
+[04-Jul-2017 06:23:12 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:23:12 UTC] Process Time:1.49914939267E+12
+[04-Jul-2017 06:23:20 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:23:20 UTC] Process Time:1.49914940078E+12
+[04-Jul-2017 06:23:28 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:23:28 UTC] Process Time:1.49914940803E+12
+[04-Jul-2017 06:23:48 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:23:48 UTC] Process Time:1.49914942854E+12
+[04-Jul-2017 06:24:09 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:24:09 UTC] Process Time:1.49914944916E+12
+[04-Jul-2017 06:24:50 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:24:50 UTC] Process Time:1.49914949087E+12
+[04-Jul-2017 06:25:15 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 06:25:15 UTC] Process Time:1.49914951515E+12
+[04-Jul-2017 06:25:16 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 695
+[04-Jul-2017 06:25:17 UTC] PHP Notice:  Undefined index: title in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 696
+[04-Jul-2017 06:25:17 UTC] PHP Notice:  Undefined index: field_price in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 696
+[04-Jul-2017 06:25:17 UTC] PHP Notice:  Undefined index: field_image in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 697
+[04-Jul-2017 06:25:17 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 700
+[04-Jul-2017 06:25:17 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 700
+[04-Jul-2017 06:25:18 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot394484094:AAHjUUllO3zntT6M3IeFAexRjMRCuSB1rf4/sendPhoto?chat_id=420314048&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2F%2Fimg%2F&amp;caption=%0A%D9%82%DB%8C%D9%85%D8%AA+%3A+%0A&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu062e%5Cu0631%5Cu06cc%5Cu062f%22%2C%22callback_data%22%3A%22Buy_%22%7D%2C%7B%22text%22%3A%22%5Cu0627%5Cu0634%5Cu062a%5Cu0631%5Cu0627%5Cu06a9+%5Cu062f%5Cu0631+%5Cu062a%5Cu0644%5Cu06af%5Cu0631%5Cu0627%5Cu0645%22%2C%22switch_inline_query%22%3Anull%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 748
+[04-Jul-2017 10:38:31 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 10:38:31 UTC] Process Time:1.49916471162E+12
+[04-Jul-2017 10:38:44 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[04-Jul-2017 10:38:44 UTC] Process Time:1.49916472401E+12
+[09-Jul-2017 03:54:12 UTC] PHP Notice:  Undefined variable: time_start in /home/niyazmand/public_html/botmarketing/ehsan/telegram/index.php on line 766
+[09-Jul-2017 03:54:12 UTC] Process Time:1.49957245203E+12
