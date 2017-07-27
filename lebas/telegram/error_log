@@ -1,0 +1,371 @@
+[25-Jun-2017 12:03:53 UTC] Process Time:0
+[25-Jun-2017 12:03:54 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+        )
+
+)
+
+[25-Jun-2017 12:05:48 UTC] Process Time:0
+[25-Jun-2017 12:05:53 UTC] Process Time:0
+[25-Jun-2017 12:06:04 UTC] Process Time:0
+[25-Jun-2017 12:06:16 UTC] Process Time:0
+[25-Jun-2017 12:14:47 UTC] Process Time:0
+[25-Jun-2017 12:14:52 UTC] Process Time:1
+[25-Jun-2017 12:14:56 UTC] Process Time:0
+[25-Jun-2017 12:15:02 UTC] Process Time:0
+[25-Jun-2017 12:15:10 UTC] Process Time:0
+[25-Jun-2017 12:15:12 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 91
+                    [uid] => 37
+                    [mid] => 9
+                    [status] => 0
+                    [created] => 1498392905
+                )
+
+        )
+
+)
+
+[25-Jun-2017 12:15:15 UTC] Process Time:0
+[25-Jun-2017 12:15:17 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 91
+                    [uid] => 37
+                    [mid] => 9
+                    [status] => 0
+                    [created] => 1498392905
+                )
+
+        )
+
+)
+
+[25-Jun-2017 12:15:19 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/editMessageReplyMarkup?chat_id=151473757&amp;message_id=917&amp;inline_message_id=53629238&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%221%22%2C%22callback_data%22%3A%22number_1_48%22%7D%2C%7B%22text%22%3A%222%22%2C%22callback_data%22%3A%22number_2_48%22%7D%2C%7B%22text%22%3A%223%22%2C%22callback_data%22%3A%22number_3_48%22%7D%2C%7B%22text%22%3A%224%22%2C%22callback_data%22%3A%22number_4_48%22%7D%2C%7B%22text%22%3A%225%22%2C%22callback_data%22%3A%22number_5_48%22%7D%5D%2C%5B%7B%22text%22%3A%226%22%2C%22callback_data%22%3A%22number_6_48%22%7D%2C%7B%22text%22%3A%227%22%2C%22callback_data%22%3A%22number_7_48%22%7D%2C%7B%22text%22%3A%228%22%2C%22callback_data%22%3A%22number_8_48%22%7D%2C%7B%22text%22%3A%229%22%2C%22callback_data%22%3A%22number_9_48%22%7D%2C%7B%22text%22%3A%2210%22%2C%22callback_data%22%3A%22number_10_48%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 681
+[25-Jun-2017 12:15:25 UTC] Process Time:0
+[25-Jun-2017 12:15:29 UTC] Process Time:0
+[25-Jun-2017 12:15:31 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 91
+                    [uid] => 37
+                    [mid] => 9
+                    [status] => 0
+                    [created] => 1498392905
+                )
+
+        )
+
+)
+
+[25-Jun-2017 12:15:34 UTC] Process Time:0
+[25-Jun-2017 12:15:35 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 91
+                    [uid] => 37
+                    [mid] => 9
+                    [status] => 0
+                    [created] => 1498392905
+                )
+
+        )
+
+)
+
+[25-Jun-2017 12:15:37 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/editMessageReplyMarkup?chat_id=151473757&amp;message_id=916&amp;inline_message_id=53629241&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%221%22%2C%22callback_data%22%3A%22number_1_49%22%7D%2C%7B%22text%22%3A%222%22%2C%22callback_data%22%3A%22number_2_49%22%7D%2C%7B%22text%22%3A%223%22%2C%22callback_data%22%3A%22number_3_49%22%7D%2C%7B%22text%22%3A%224%22%2C%22callback_data%22%3A%22number_4_49%22%7D%2C%7B%22text%22%3A%225%22%2C%22callback_data%22%3A%22number_5_49%22%7D%5D%2C%5B%7B%22text%22%3A%226%22%2C%22callback_data%22%3A%22number_6_49%22%7D%2C%7B%22text%22%3A%227%22%2C%22callback_data%22%3A%22number_7_49%22%7D%2C%7B%22text%22%3A%228%22%2C%22callback_data%22%3A%22number_8_49%22%7D%2C%7B%22text%22%3A%229%22%2C%22callback_data%22%3A%22number_9_49%22%7D%2C%7B%22text%22%3A%2210%22%2C%22callback_data%22%3A%22number_10_49%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 681
+[25-Jun-2017 12:15:41 UTC] Process Time:0
+[25-Jun-2017 12:15:49 UTC] Process Time:0
+[25-Jun-2017 12:16:00 UTC] Process Time:0
+[25-Jun-2017 12:18:32 UTC] Process Time:0
+[25-Jun-2017 12:18:56 UTC] Process Time:0
+[25-Jun-2017 13:19:19 UTC] Process Time:0
+[25-Jun-2017 13:19:23 UTC] Process Time:0
+[25-Jun-2017 13:19:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[25-Jun-2017 13:19:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[25-Jun-2017 13:21:48 UTC] Process Time:0
+[25-Jun-2017 13:21:57 UTC] Process Time:0
+[06-Jul-2017 08:38:27 UTC] Process Time:11
+[06-Jul-2017 08:42:31 UTC] Process Time:0
+[06-Jul-2017 08:42:32 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[06-Jul-2017 08:42:34 UTC] Process Time:0
+[06-Jul-2017 08:42:40 UTC] Process Time:0
+[06-Jul-2017 08:42:48 UTC] Process Time:0
+[06-Jul-2017 08:43:36 UTC] Process Time:0
+[06-Jul-2017 08:43:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[06-Jul-2017 08:43:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[06-Jul-2017 08:44:07 UTC] Process Time:0
+[06-Jul-2017 08:44:16 UTC] Process Time:0
+[06-Jul-2017 08:44:16 UTC] Process Time:0
+[06-Jul-2017 08:44:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[06-Jul-2017 08:44:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[06-Jul-2017 08:44:19 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/sendPhoto?chat_id=420314048&amp;photo=http%3A%2F%2Fbotmarketing.ir%2Fsites%2Fdefault%2Ffiles%2Fimg%2Fdownload+%281%29.jpg&amp;caption=%D8%AA%DB%8C%D8%B4%D8%B1%D8%AA+%D8%AF%D8%B1%D8%A7%DA%AF%D9%88%D9%86%0A+%D9%82%DB%8C%D9%85%D8%AA%3A++80000%0A%D8%AA%DB%8C%D8%B4%D8%B2%D8%AA%DB%8C+%D8%A8%D8%A7+%D8%B7%D8%B1%D8%AD+%D8%A7%DA%98%D8%AF%D9%87%D8%A7+%D8%A8%D8%A7+%D8%AC%D9%86%D8%B3+%D8%AE%D9%88%D8%A8&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu062e%5Cu0631%5Cu06cc%5Cu062f%22%2C%22callback_data%22%3A%22Buy_162%22%7D%2C%7B%22text%22%3A%22%5Cu0627%5Cu0634%5Cu062a%5Cu0631%5Cu0627%5Cu06a9+%5Cu062f%5Cu0631+%5Cu062a%5Cu0644%5Cu06af%5Cu0631%5Cu0627%5Cu0645%22%2C%22switch_inline_query%22%3A%22162%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 752
+[06-Jul-2017 08:45:28 UTC] Process Time:0
+[06-Jul-2017 13:07:13 UTC] Process Time:1
+[06-Jul-2017 13:07:14 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[06-Jul-2017 13:07:19 UTC] Process Time:1
+[06-Jul-2017 13:07:28 UTC] Process Time:0
+[06-Jul-2017 13:07:40 UTC] Process Time:0
+[06-Jul-2017 13:07:51 UTC] Process Time:0
+[06-Jul-2017 13:08:12 UTC] Process Time:1
+[06-Jul-2017 13:08:17 UTC] Process Time:0
+[08-Jul-2017 09:46:15 UTC] Process Time:0
+[08-Jul-2017 09:46:16 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[08-Jul-2017 09:46:39 UTC] Process Time:1
+[08-Jul-2017 09:46:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[08-Jul-2017 09:46:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[08-Jul-2017 09:46:49 UTC] Process Time:0
+[08-Jul-2017 09:46:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[08-Jul-2017 09:46:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[08-Jul-2017 09:46:51 UTC] Process Time:0
+[08-Jul-2017 09:46:52 UTC] Process Time:0
+[08-Jul-2017 09:46:53 UTC] Process Time:0
+[08-Jul-2017 09:46:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[08-Jul-2017 09:46:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[08-Jul-2017 09:46:54 UTC] PHP Notice:  Undefined variable: viewOrderProduct in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 477
+[08-Jul-2017 09:46:54 UTC] PHP Notice:  Undefined variable: viewOrderProduct2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 477
+[08-Jul-2017 09:46:54 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/sendMessage?chat_id=91476132&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 687
+[08-Jul-2017 09:46:54 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+        )
+
+)
+
+[10-Jul-2017 06:12:51 UTC] Process Time:10
+[10-Jul-2017 06:12:52 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[10-Jul-2017 06:13:12 UTC] Process Time:0
+[11-Jul-2017 07:52:22 UTC] Process Time:0
+[11-Jul-2017 07:52:23 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[11-Jul-2017 07:52:31 UTC] Process Time:0
+[11-Jul-2017 07:52:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[11-Jul-2017 07:52:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 08:26:14 UTC] Process Time:0
+[12-Jul-2017 08:26:14 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[12-Jul-2017 08:26:21 UTC] Process Time:0
+[12-Jul-2017 08:26:39 UTC] Process Time:0
+[12-Jul-2017 08:26:54 UTC] Process Time:0
+[12-Jul-2017 08:27:00 UTC] Process Time:0
+[12-Jul-2017 08:27:02 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 99
+                    [uid] => 37
+                    [mid] => 53
+                    [status] => 0
+                    [created] => 1499848016
+                )
+
+        )
+
+)
+
+[12-Jul-2017 08:27:17 UTC] Process Time:0
+[12-Jul-2017 08:27:19 UTC] PHP Notice:  Undefined variable: viewOrderProduct in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 477
+[12-Jul-2017 08:27:19 UTC] PHP Notice:  Undefined variable: viewOrderProduct2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 477
+[12-Jul-2017 08:27:19 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/sendMessage?chat_id=105074343&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 687
+[12-Jul-2017 08:27:19 UTC] Process Time:0
+[12-Jul-2017 08:27:20 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[12-Jul-2017 08:27:26 UTC] Process Time:0
+[12-Jul-2017 08:27:27 UTC] Process Time:0
+[12-Jul-2017 08:27:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[12-Jul-2017 08:27:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 08:27:29 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 99
+                    [uid] => 37
+                    [mid] => 53
+                    [status] => 0
+                    [created] => 1499848016
+                )
+
+        )
+
+)
+
+[12-Jul-2017 08:27:31 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/editMessageReplyMarkup?chat_id=105074343&amp;message_id=963&amp;inline_message_id=53629286&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%221%22%2C%22callback_data%22%3A%22number_1_46%22%7D%2C%7B%22text%22%3A%222%22%2C%22callback_data%22%3A%22number_2_46%22%7D%2C%7B%22text%22%3A%223%22%2C%22callback_data%22%3A%22number_3_46%22%7D%2C%7B%22text%22%3A%224%22%2C%22callback_data%22%3A%22number_4_46%22%7D%2C%7B%22text%22%3A%225%22%2C%22callback_data%22%3A%22number_5_46%22%7D%5D%2C%5B%7B%22text%22%3A%226%22%2C%22callback_data%22%3A%22number_6_46%22%7D%2C%7B%22text%22%3A%227%22%2C%22callback_data%22%3A%22number_7_46%22%7D%2C%7B%22text%22%3A%228%22%2C%22callback_data%22%3A%22number_8_46%22%7D%2C%7B%22text%22%3A%229%22%2C%22callback_data%22%3A%22number_9_46%22%7D%2C%7B%22text%22%3A%2210%22%2C%22callback_data%22%3A%22number_10_46%22%7D%5D%2C%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 681
+[12-Jul-2017 08:28:09 UTC] Process Time:0
+[12-Jul-2017 08:28:14 UTC] Process Time:0
+[12-Jul-2017 08:28:31 UTC] Process Time:0
+[12-Jul-2017 08:28:36 UTC] Process Time:0
+[12-Jul-2017 08:36:17 UTC] Process Time:0
+[12-Jul-2017 08:36:31 UTC] Process Time:0
+[12-Jul-2017 10:15:31 UTC] Process Time:0
+[12-Jul-2017 10:15:32 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[12-Jul-2017 10:15:36 UTC] Process Time:0
+[12-Jul-2017 10:15:45 UTC] Process Time:0
+[12-Jul-2017 10:15:46 UTC] Process Time:0
+[12-Jul-2017 10:15:47 UTC] Process Time:0
+[12-Jul-2017 10:15:51 UTC] Process Time:0
+[12-Jul-2017 10:16:02 UTC] Process Time:0
+[12-Jul-2017 10:16:13 UTC] Process Time:0
+[12-Jul-2017 10:16:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[12-Jul-2017 10:16:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 10:28:47 UTC] Process Time:0
+[12-Jul-2017 10:28:48 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[12-Jul-2017 10:28:54 UTC] Process Time:0
+[12-Jul-2017 10:28:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[12-Jul-2017 10:28:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 10:29:27 UTC] Process Time:0
+[12-Jul-2017 10:29:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[12-Jul-2017 10:29:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 10:30:04 UTC] Process Time:0
+[12-Jul-2017 10:30:30 UTC] Process Time:1
+[12-Jul-2017 20:34:59 UTC] Process Time:0
+[12-Jul-2017 20:35:01 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[12-Jul-2017 20:35:04 UTC] Process Time:0
+[12-Jul-2017 20:35:12 UTC] Process Time:0
+[12-Jul-2017 20:35:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[12-Jul-2017 20:35:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 20:35:23 UTC] Process Time:0
+[12-Jul-2017 20:35:26 UTC] Process Time:0
+[12-Jul-2017 20:35:26 UTC] Process Time:0
+[12-Jul-2017 20:35:35 UTC] Process Time:0
+[12-Jul-2017 20:35:36 UTC] Process Time:0
+[12-Jul-2017 22:32:16 UTC] Process Time:0
+[12-Jul-2017 22:32:18 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[12-Jul-2017 22:32:29 UTC] Process Time:0
+[12-Jul-2017 22:32:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[12-Jul-2017 22:32:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 22:33:06 UTC] Process Time:0
+[12-Jul-2017 22:33:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[12-Jul-2017 22:33:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[12-Jul-2017 22:33:13 UTC] Process Time:0
+[12-Jul-2017 22:33:20 UTC] Process Time:0
+[12-Jul-2017 22:33:51 UTC] Process Time:0
+[12-Jul-2017 22:34:14 UTC] Process Time:0
+[12-Jul-2017 22:34:16 UTC] PHP Notice:  Undefined variable: viewOrderProduct in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 477
+[12-Jul-2017 22:34:16 UTC] PHP Notice:  Undefined variable: viewOrderProduct2 in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 477
+[12-Jul-2017 22:34:16 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot441812885:AAFB-ai2Sz9KUAMvholYq6OWSyQ-y0Nyo00/sendMessage?chat_id=134986200&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 687
+[16-Jul-2017 05:34:52 UTC] Process Time:9
+[16-Jul-2017 05:35:12 UTC] Process Time:0
+[16-Jul-2017 05:35:28 UTC] Process Time:0
+[16-Jul-2017 05:36:02 UTC] Process Time:0
+[16-Jul-2017 05:36:10 UTC] Process Time:0
+[16-Jul-2017 05:36:12 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 101
+                    [uid] => 37
+                    [mid] => 11
+                    [status] => 0
+                    [created] => 1500183364
+                )
+
+        )
+
+)
+
+[16-Jul-2017 05:36:16 UTC] Process Time:0
+[16-Jul-2017 05:36:35 UTC] Process Time:0
+[16-Jul-2017 08:47:05 UTC] Process Time:0
+[16-Jul-2017 08:47:06 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[16-Jul-2017 08:47:15 UTC] Process Time:0
+[16-Jul-2017 08:47:19 UTC] Process Time:0
+[16-Jul-2017 08:47:40 UTC] Process Time:0
+[16-Jul-2017 08:47:51 UTC] Process Time:0
+[16-Jul-2017 08:47:53 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 102
+                    [uid] => 37
+                    [mid] => 60
+                    [status] => 0
+                    [created] => 1500194863
+                )
+
+        )
+
+)
+
+[17-Jul-2017 11:14:32 UTC] Process Time:1
+[17-Jul-2017 11:14:34 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[17-Jul-2017 11:14:45 UTC] Process Time:0
+[17-Jul-2017 11:15:00 UTC] Process Time:0
+[17-Jul-2017 11:15:11 UTC] Process Time:0
+[17-Jul-2017 11:15:19 UTC] Process Time:0
+[17-Jul-2017 11:15:21 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 106
+                    [uid] => 37
+                    [mid] => 63
+                    [status] => 0
+                    [created] => 1500290113
+                )
+
+        )
+
+)
+
+[17-Jul-2017 11:15:28 UTC] Process Time:1
+[17-Jul-2017 11:15:36 UTC] Process Time:1
+[17-Jul-2017 11:15:42 UTC] Process Time:0
+[17-Jul-2017 11:15:44 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+        )
+
+)
+
+[25-Jul-2017 11:40:01 UTC] Process Time:119
+[25-Jul-2017 11:40:03 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 671
+[25-Jul-2017 11:40:07 UTC] Process Time:0
+[25-Jul-2017 11:40:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/include/restfull.php on line 26
+[25-Jul-2017 11:40:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/niyazmand/public_html/botmarketing/lebas/telegram/index.php on line 304
+[25-Jul-2017 11:40:13 UTC] Process Time:0
+[25-Jul-2017 11:40:35 UTC] Process Time:0
+[25-Jul-2017 11:40:50 UTC] Process Time:0
+[25-Jul-2017 11:41:04 UTC] Process Time:0
+[25-Jul-2017 11:41:09 UTC] Process Time:0
+[25-Jul-2017 11:41:15 UTC] Process Time:0
