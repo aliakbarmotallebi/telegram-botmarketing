@@ -1,0 +1,83 @@
+[19-Jun-2017 14:19:40 UTC] Process Time:0
+[19-Jun-2017 14:19:41 UTC] http://botmarketing.ir/sites/default/filesimg/cb5238_1.jpg
+[19-Jun-2017 14:20:08 UTC] Process Time:0
+[19-Jun-2017 14:20:38 UTC] Process Time:0
+[19-Jun-2017 14:20:39 UTC] http://botmarketing.ir/sites/default/files/img/cc5227_1.jpg
+[19-Jun-2017 14:23:44 UTC] Process Time:0
+[19-Jun-2017 14:23:45 UTC] PHP Notice:  Undefined index: field_price in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 700
+[19-Jun-2017 14:23:45 UTC] PHP Notice:  Undefined index: field_image in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 701
+[19-Jun-2017 14:23:45 UTC] http://botmarketing.ir/sites/default/files/img/
+[19-Jun-2017 14:23:45 UTC] PHP Notice:  Undefined index: field_price in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 708
+[19-Jun-2017 14:23:45 UTC] PHP Notice:  Undefined index: field_price in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 711
+[20-Jun-2017 04:28:49 UTC] Process Time:0
+[20-Jun-2017 04:28:55 UTC] Process Time:0
+[20-Jun-2017 04:28:56 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 329
+[20-Jun-2017 04:28:59 UTC] Process Time:0
+[20-Jun-2017 04:29:00 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 619
+[20-Jun-2017 04:29:03 UTC] Process Time:0
+[20-Jun-2017 04:29:07 UTC] Process Time:0
+[20-Jun-2017 04:29:12 UTC] Process Time:0
+[20-Jun-2017 04:29:16 UTC] Process Time:0
+[20-Jun-2017 04:29:18 UTC] PHP Notice:  Undefined variable: text1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 489
+[20-Jun-2017 04:29:21 UTC] Process Time:0
+[20-Jun-2017 04:29:26 UTC] Process Time:0
+[20-Jun-2017 04:29:28 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 675
+[20-Jun-2017 04:29:31 UTC] Process Time:0
+[20-Jun-2017 04:29:32 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 675
+[20-Jun-2017 04:29:35 UTC] Process Time:0
+[20-Jun-2017 04:29:37 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 675
+[20-Jun-2017 04:29:40 UTC] Process Time:0
+[20-Jun-2017 04:29:41 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 675
+[20-Jun-2017 04:29:49 UTC] Process Time:0
+[21-Jun-2017 09:53:34 UTC] Process Time:0
+[24-Jun-2017 10:59:10 UTC] Process Time:6
+[24-Jun-2017 10:59:13 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 680
+[25-Jun-2017 05:48:48 UTC] Process Time:0
+[25-Jun-2017 05:48:50 UTC] PHP Notice:  Undefined offset: 3 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 329
+[25-Jun-2017 05:48:54 UTC] Process Time:0
+[25-Jun-2017 05:48:55 UTC] PHP Notice:  Undefined offset: 0 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 624
+[25-Jun-2017 05:49:10 UTC] Process Time:0
+[25-Jun-2017 05:49:45 UTC] Process Time:0
+[25-Jun-2017 05:50:25 UTC] Process Time:0
+[25-Jun-2017 05:50:31 UTC] Process Time:0
+[25-Jun-2017 05:50:34 UTC] PHP Notice:  Undefined offset: 1 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 680
+[25-Jun-2017 05:51:24 UTC] Process Time:0
+[04-Jul-2017 06:27:35 UTC] Process Time:14
+[04-Jul-2017 06:27:38 UTC] Process Time:1
+[06-Aug-2017 11:30:43 UTC] Process Time:6
+[06-Aug-2017 11:30:45 UTC] PHP Warning:  Illegal string offset 'id' in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 670
+[06-Aug-2017 11:31:05 UTC] Process Time:1
+[06-Aug-2017 11:31:30 UTC] Process Time:0
+[06-Aug-2017 11:31:37 UTC] Process Time:0
+[06-Aug-2017 11:31:43 UTC] Process Time:0
+[06-Aug-2017 11:31:45 UTC] Array
+(
+    [status] => 200
+    [message] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 111
+                    [uid] => 39
+                    [mid] => 70
+                    [status] => 0
+                    [created] => 1502019099
+                )
+
+        )
+
+)
+
+[06-Aug-2017 11:31:51 UTC] Process Time:1
+[06-Aug-2017 11:31:53 UTC] Process Time:1
+[06-Aug-2017 11:31:55 UTC] PHP Notice:  Undefined variable: viewOrderProduct in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 476
+[06-Aug-2017 11:31:55 UTC] PHP Notice:  Undefined variable: viewOrderProduct2 in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 476
+[06-Aug-2017 11:31:56 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot444279917:AAEAd6xv7DmHcWc55Vt_cAUwuy5fo3C3wb4/sendMessage?chat_id=101966013&amp;text=&amp;reply_markup=%7B%22inline_keyboard%22%3A%5B%5B%7B%22text%22%3A%22%5Cu0645%5Cu0646%5Cu0648%22%2C%22callback_data%22%3A%22Back%22%7D%5D%5D%7D): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/niyazmand/public_html/botmarketing/shose/telegram/index.php on line 686
+[06-Aug-2017 11:32:03 UTC] Process Time:0
+[06-Aug-2017 11:32:10 UTC] Process Time:1
+[06-Aug-2017 11:32:24 UTC] Process Time:0
+[06-Aug-2017 11:32:27 UTC] Process Time:1
+[06-Aug-2017 11:32:40 UTC] Process Time:1
+[06-Aug-2017 11:32:48 UTC] Process Time:1
+[06-Aug-2017 11:33:07 UTC] Process Time:0
